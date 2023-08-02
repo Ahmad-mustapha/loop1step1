@@ -11,9 +11,7 @@ body{
 .container{
     background-color: #ffffff;
     display: flex;
-    /* grid-template-columns: auto auto auto; */
     width: 62.5rem;
-    /* height: fit-content; */
     margin: 100px auto;
     padding: 0rem 3rem;
     border-radius: 4px;
@@ -31,7 +29,6 @@ body{
     justify-content: center;
     align-items: center;
     margin: 5rem 0rem;
-    /* padding: 10px 50px; */
     width: 33%;
     cursor: pointer;
     line-height: 2.9;
